@@ -4,6 +4,7 @@ Migrated from: https://docs.google.com/spreadsheets/d/19Oj8AdF7hmu_5XLEbaS5pAbmU
 # DAWs
 
 _List of low-cost and free DAWs. Data is believed to be correct as of 06 / 2025._
+Definition of 'Low cost': <~100/EUR
 
 ## Key
 
@@ -41,4 +42,4 @@ _List of low-cost and free DAWs. Data is believed to be correct as of 06 / 2025.
 | **Radium**  | 0                                                | ✔    | ✔         | ✔              | ?       | ?    | ✔       | ✔     | ✔     |         | [users.notam02.no/~kjetism/radium](http://users.notam02.no/~kjetism/radium/)         |
 | **ZRythm**  | 0                                                | ✔    | ✔         | ✔              | ?       | ?    | ✔       | ✔     | ✔     |         | [zrythm.org](https://www.zrythm.org/)                                                |
 | **LNXStudio** | 0                                              | ✔    | ✔         | ?              | ?       |      | ✔       | ✔     |       |         | [lnxstudio.sourceforge.io](https://lnxstudio.sourceforge.io/)                        |
-| **Beat DJ** | 10 USD/mo or 700 USD one-time (code: PRO500…)     | ✔    | Internal  | ~700           | Internal| 7    | ✔       | ✔     | ✔     |         | [soniare.net/beatdj?f=spread](https://www.soniare.net/beatdj?f=spread)               |
+| **Beat DJ** | 9/mo                                             | ✔    | ✔        | ✔              | ?       | 7    | ✔       | ✔     | ✔     |         | [soniare.net/beatdj?f=spread](https://www.soniare.net/beatdj?f=spread)               |
