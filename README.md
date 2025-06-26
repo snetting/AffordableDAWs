@@ -5,6 +5,14 @@ Migrated from: https://docs.google.com/spreadsheets/d/19Oj8AdF7hmu_5XLEbaS5pAbmU
 
 _List of low-cost and free DAWs. Data is believed to be correct as of 06 / 2025._
 
+## Key
+
+| Symbol | Meaning                                |
+|:------:|----------------------------------------|
+| ✔      | Supported                              |
+| -      | Partial Support                        |
+| ?      | Not stated or non-VST plugins          |
+
 ## Mature DAWs
 
 | DAW                       | Cost (€) | MIDI | Audio | VST Instrument | Effects | VSTs | Windows | macOS | Linux | AmigaOS | Link                                                                                 |
