@@ -27,6 +27,7 @@ Definition of 'Low cost': <~100/EUR
 | **Waveform Free**         |        0 | ✔    | ✔     | ✔              | ?       | 15   | ✔       | ✔     | ✔     |         | [tracktion.com/…/waveform-free](https://www.tracktion.com/products/waveform-free)   |
 | **Garage Band**           |        0 | ✔    | ✔     | ✔              | ?       | 4+   |         | ✔     |       |         | [apple.com/mac/garageband](https://www.apple.com/mac/garageband/)                   |
 | **Sequel**                |        0 | ✔    | ✔     | ✔              | ?       | 18+  | ✔       |       |       |         | [steinberg.net/sequel](https://www.steinberg.net/sequel/)                           |
+| **Mixcraft Home Studio**  |       35 | ✔    | ✔     | ✔              | 19       | 14  | ✔       |       |       |         | [acoustica.com/products/mixcraft](https://acoustica.com/products/mixcraft)                           |
 | **Reaper**                |       60 | ✔    | ✔     | ✔              | 3       | 15   | ✔       | ✔     | ✔     |         | [reaper.fm](https://www.reaper.fm/)                                                 |
 | **Renoise**               |       68 | ✔    | ✔     | ✔              | ?       | 26+  | ✔       | ✔     | ✔     |         | [renoise.com](https://www.renoise.com/)                                             |
 | **Ableton Live Intro**    |       79 | ✔    | ✔     | ✔              | 4       | 21   | ✔       | ✔     |       |         | [ableton.com/en](https://www.ableton.com/en/)                                        |
