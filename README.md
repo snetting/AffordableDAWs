@@ -3,7 +3,7 @@ Migrated from: https://docs.google.com/spreadsheets/d/19Oj8AdF7hmu_5XLEbaS5pAbmU
 
 # DAWs
 
-_List of low-cost and free DAWs. Data is believed to be correct as of 06 / 2025._
+_List of low-cost and free DAWs. Data is believed to be correct as of 01 / 2026._
 Definition of 'Low cost': <~100/EUR
 
 ## Key
@@ -27,14 +27,14 @@ Definition of 'Low cost': <~100/EUR
 | **Waveform Free**         |        0 | ✔    | ✔     | ✔              | ?       | 15   | ✔       | ✔     | ✔     |         | [tracktion.com/…/waveform-free](https://www.tracktion.com/products/waveform-free)   |
 | **Garage Band**           |        0 | ✔    | ✔     | ✔              | ?       | 4+   |         | ✔     |       |         | [apple.com/mac/garageband](https://www.apple.com/mac/garageband/)                   |
 | **Sequel**                |        0 | ✔    | ✔     | ✔              | ?       | 18+  | ✔       |       |       |         | [steinberg.net/sequel](https://www.steinberg.net/sequel/)                           |
-| **Mixcraft Home Studio**  |       35 | ✔    | ✔     | ✔              | 19       | 14  | ✔       |       |       |         | [acoustica.com/products/mixcraft](https://acoustica.com/products/mixcraft)                           |
+| **Fender Studio (Free)**  |        0 |      | ✔     |                 |         | 13+  | ✔       |       | ✔     |         | [Fender Studio](https://fi.fender.com/pages/fender-studio)                        |
+| **Mixcraft Home Studio**  |       35 | ✔    | ✔     | ✔              | 19       | 14  | ✔       |       |       |         | [acoustica.com/products/mixcraft](https://acoustica.com/products/mixcraft)          |
 | **Reaper**                |       60 | ✔    | ✔     | ✔              | 3       | 15   | ✔       | ✔     | ✔     |         | [reaper.fm](https://www.reaper.fm/)                                                 |
 | **Renoise**               |       68 | ✔    | ✔     | ✔              | ?       | 26+  | ✔       | ✔     | ✔     |         | [renoise.com](https://www.renoise.com/)                                             |
 | **Ableton Live Intro**    |       79 | ✔    | ✔     | ✔              | 4       | 21   | ✔       | ✔     |       |         | [ableton.com/en](https://www.ableton.com/en/)                                        |
 | **Bitwig Studio Essentials** |    99 | ✔    | ✔     | ✔              | 3       | 17   | ✔       | ✔     | ✔     |         | [bitwig.com](https://www.bitwig.com/)                                               |
 | **FL Studio Fruity Edition** |   99 | ✔    | –     | ✔              | 35      | 70   | ✔       | ✔     |       |         | [image-line.com](https://www.image-line.com/)                                       |
 | **Cubase Elements**       |       99 | ✔    | ✔     | ✔              | 2       | 45   | ✔       | ✔     |       |         | [steinberg.net/cubase](https://www.steinberg.net/cubase)                            |
-| **Studio One Artist**     |      100 | ✔    | ✔     | ✔              | 5       | 28   | ✔       | ✔     |       |         | [presonus.com/en-US/studio-one.html](https://www.presonus.com/en-US/studio-one.html)|
 
 ## Other DAWs of Note (under development)
 
